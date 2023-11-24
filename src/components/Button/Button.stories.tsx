@@ -1,4 +1,4 @@
 import React from "react";
 import Button from "./Button";
 
-export const Default = () => <Button label={":S"}/>
+export const Default = () => <Button label='Submit Button'/>
